@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import productsData from '../data/products.json';
 import siteInfo from '../data/site-info.json';
+import ReviewsCarousel from '../components/ReviewsCarousel.astro';
 
 const whatsappNumber = siteInfo.contact.whatsapp.replace(/^0/, '972');
 
@@ -120,6 +121,9 @@ const features = [
       </div>
     </div>
   </section>
+
+  <!-- Reviews Section -->
+  <ReviewsCarousel />
 
   <!-- CTA Section -->
   <section id="contact" class="py-24 bg-neutral-950 text-white relative overflow-hidden border-t border-white/10">
