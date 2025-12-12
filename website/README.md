@@ -182,7 +182,7 @@ Each page includes:
 - Address: Shalem 12, Ramat Gan
 - Phone: 03-631-1099
 - WhatsApp: 052-871-8138
-- Hours: Sun-Thu 7:30-19:00, Fri 7:30-13:30, Sat Closed
+- Hours: Sun-Thu 7:30-18:30, Fri 7:30-13:30, Sat Closed
 
 ## 📄 License
 

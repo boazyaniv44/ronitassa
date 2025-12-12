@@ -78,24 +78,10 @@
           "image": "/images/products/chuck-roast.png"
         },
         {
-          "id": "rump",
-          "name": "שייטל",
-          "cutType": "נתח אחורי",
-          "description": "נתח עסיסי ורך, מתאים למגוון שימושים",
-          "price": "120 ₪ לק״ג",
-          "cuttingOptions": [
-            "סטייקים",
-            "גוש שלם",
-            "שניצל וינאי",
-            "רצועות"
-          ],
-          "image": "/images/products/rump.png"
-        },
-        {
           "id": "picanha",
           "name": "פיקאניה",
           "cutType": "נתח ברזילאי",
-          "description": "נתח פופולרי עם שכבת שומן עסיסית",
+          "description": "נתח פופולרי עם שכבת שומן עסיסית - קפוא",
           "price": "160 ₪ לק״ג",
           "cuttingOptions": [
             "גוש שלם",
@@ -134,7 +120,7 @@
           "cuttingOptions": [
             "פרוס עם עצם"
           ],
-          "image": "/images/products/beef-ossobuco.png"
+          "image": "/images/products/ossobuco.jpg"
         },
         {
           "id": "chuck-eye-roll",
@@ -172,7 +158,7 @@
             "קוביות",
             "גוש שלם"
           ],
-          "image": "/images/products/central-shoulder.png"
+          "image": "/images/products/central-shoulder.jpg"
         },
         {
           "id": "false-fillet",
@@ -197,6 +183,29 @@
             "גוש שלם"
           ],
           "image": "/images/products/beef-shank.png"
+        },
+        {
+          "id": "viennese-schnitzel",
+          "name": "שניצל וינאי (שייטל)",
+          "cutType": "מוכן לטיגון",
+          "description": "שניצל וינאי מנתח שייטל איכותי",
+          "price": "120 ₪ לק״ג",
+          "cuttingOptions": [
+            "שניצל"
+          ],
+          "image": "/images/products/viennese-schnitzel.jpg"
+        },
+        {
+          "id": "denver",
+          "name": "דנבר",
+          "cutType": "נתח פרימיום",
+          "description": "נתח דנבר - נתח רך ועסיסי מאזור הכתף",
+          "price": "[מחיר יתעדכן]",
+          "cuttingOptions": [
+            "סטייקים",
+            "גוש שלם"
+          ],
+          "image": "/images/products/denver.png"
         }
       ]
     },
@@ -231,8 +240,7 @@
           "cuttingOptions": [
             "גוש שלם",
             "פרוס"
-          ],
-          "image": "/images/products/lamb-shoulder.png"
+          ]
         },
         {
           "id": "lamb-neck",
@@ -287,7 +295,8 @@
           "price": "56 ₪ (שלם) / 66 ₪ (חתוך) לק״ג",
           "cuttingOptions": [
             "שלם",
-            "שניצל",
+            "שניצל דק",
+            "שניצל בינוני",
             "קוביות",
             "רצועות"
           ],
@@ -422,6 +431,50 @@
             "שלם"
           ],
           "image": "/images/products/chicken-necks.png"
+        },
+        {
+          "id": "clean-hearts",
+          "name": "לבבות נקי",
+          "cutType": "פנים",
+          "description": "לבבות עוף נקיים ומוכנים",
+          "price": "60 ₪ לק״ג",
+          "cuttingOptions": [
+            "נקי"
+          ],
+          "image": "/images/products/clean-hearts.png"
+        },
+        {
+          "id": "chicken-with-bone",
+          "name": "פרגית עם עצם",
+          "cutType": "עסיסי",
+          "description": "ירך עוף עם עצם, עסיסית במיוחד",
+          "price": "[מחיר יתעדכן]",
+          "cuttingOptions": [
+            "עם עצם"
+          ],
+          "image": "/images/products/chicken-with-bone.png"
+        },
+        {
+          "id": "turkey-neck",
+          "name": "גרון הודו",
+          "cutType": "למרק",
+          "description": "גרון הודו עשיר בטעם",
+          "price": "39 ₪ לק״ג",
+          "cuttingOptions": [
+            "שלם"
+          ],
+          "image": "/images/products/turkey-neck.png"
+        },
+        {
+          "id": "female-shawarma",
+          "name": "שווארמה נקבה",
+          "cutType": "לשווארמה",
+          "description": "בשר עוף נקבה לשווארמה",
+          "price": "[מחיר יתעדכן]",
+          "cuttingOptions": [
+            "פרוס"
+          ],
+          "image": "/images/products/female-shawarma.png"
         }
       ]
     },

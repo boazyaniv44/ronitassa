@@ -19,27 +19,27 @@
   "hours": {
     "sunday": {
       "open": "7:30",
-      "close": "19:00",
+      "close": "18:30",
       "label": "ראשון"
     },
     "monday": {
       "open": "7:30",
-      "close": "19:00",
+      "close": "18:30",
       "label": "שני"
     },
     "tuesday": {
       "open": "7:30",
-      "close": "19:00",
+      "close": "18:30",
       "label": "שלישי"
     },
     "wednesday": {
       "open": "7:30",
-      "close": "19:00",
+      "close": "18:30",
       "label": "רביעי"
     },
     "thursday": {
       "open": "7:30",
-      "close": "19:00",
+      "close": "18:30",
       "label": "חמישי"
     },
     "friday": {
