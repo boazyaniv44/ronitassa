@@ -467,9 +467,9 @@
         },
         {
           "id": "female-shawarma",
-          "name": "שווארמה נקבה",
+          "name": "שווארמה הודו נקבה",
           "cutType": "לשווארמה",
-          "description": "בשר עוף נקבה לשווארמה",
+          "description": "בשר הודו נקבה לשווארמה",
           "price": "[מחיר יתעדכן]",
           "cuttingOptions": [
             "פרוס"
