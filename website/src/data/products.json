@@ -132,7 +132,7 @@
             "קוביות",
             "גוש שלם"
           ],
-          "image": "/images/products/chuck-eye-roll.png"
+          "image": "/images/products/chuck-eye-roll.jpg"
         },
         {
           "id": "neck",
@@ -240,7 +240,8 @@
           "cuttingOptions": [
             "גוש שלם",
             "פרוס"
-          ]
+          ],
+          "image": "/images/products/lamb-shoulder.jpg"
         },
         {
           "id": "lamb-neck",
@@ -463,7 +464,7 @@
           "cuttingOptions": [
             "שלם"
           ],
-          "image": "/images/products/turkey-neck.png"
+          "image": "/images/products/turkey-neck.jpg"
         },
         {
           "id": "female-shawarma",
